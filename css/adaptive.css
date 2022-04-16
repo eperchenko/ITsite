@@ -1,0 +1,20 @@
+/* ADAPTIVE */
+
+@media only screen and (max-width:1440px) {
+    .container {
+        max-width: 1190px;
+    }
+    .empty {
+        width: 0%;
+    }
+    .header_top {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .container {
+        max-width: 1024px;
+    }
+}
