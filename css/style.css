@@ -21,7 +21,7 @@ body {
 .header {
     width: 100%;
     height: 900px;
-    background-image: url(/img/Rectanglefon1.jpg);
+    background-image: url(../img/Rectanglefon1.jpg);
 }
 
 .header_top {
@@ -413,7 +413,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(/img/videofon.png);
+    background-image: url(../img/videofon.png);
 }
 
 .video_title {
